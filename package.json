@@ -1,0 +1,20 @@
+{
+  "name": "iotTest",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "busyman": "^0.2.0",
+    "chalk": "^1.1.3",
+    "express": "^4.14.0",
+    "freebird": "^0.1.9",
+    "freebird-netcore-ble": "0.1.6",
+    "freebird-netcore-coap": "0.0.9",
+    "freebird-netcore-mqtt": "0.0.9",
+    "freebird-netcore-zigbee": "0.0.3",
+    "freebird-rpc": "^0.3.3",
+    "nodemailer": "^4.0.1",
+    "socket.io": "^1.4.8",
+    "udp-discovery": "0.0.3"
+  }
+}
